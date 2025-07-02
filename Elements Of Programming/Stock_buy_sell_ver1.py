@@ -1,5 +1,5 @@
 '''
-Stock buy and sell
+Stock buy and sell version-1
 
 Input: prices = [7,1,5,3,6,4]
 Output: 5
