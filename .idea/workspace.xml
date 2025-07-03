@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="680ff99f-6c6d-44c9-abe3-67afb1acba30" name="Changes" comment="" />
+    <list default="true" id="680ff99f-6c6d-44c9-abe3-67afb1acba30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Elements Of Programming/ReverseAlgorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elements Of Programming/Stock_Buy_sell_ver2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Elements Of Programming/Stock_Buy_sell_ver2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
